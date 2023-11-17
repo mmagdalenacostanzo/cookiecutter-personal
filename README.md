@@ -21,6 +21,7 @@ pip install cookiecutter
 conda install -c conda-forge cookiecutter
 
 # Usage
+
 In the directory that you create for the project, execute in terminal:
 
 cookiecutter https://github.com/balechon/cookiecutter-Data_Analisys
