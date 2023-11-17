@@ -4,20 +4,26 @@ This is a Cookiecutter template for creating a data analysis project
 
 # Project Features
 Python 3.8+
+
 Git integration
+
 Python preset functions
 
 # Requirements
 Anaconda >= 4.x
+
 git >= 2.x
+
 Cookiecutter Python package >= 1.4.0:
 
 You could install cookiecutter depending on how you manage your Python packages (pip or conda), follow the code below:
 
 - pip:
+  
 pip install cookiecutter
 
 - conda:
+  
 conda install -c conda-forge cookiecutter
 
 # Usage
