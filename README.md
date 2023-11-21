@@ -30,13 +30,13 @@ conda install -c conda-forge cookiecutter
 
 In the directory you want to save the project, execute in terminal:
 
-cookiecutter https://github.com/platzi/curso-enotrno-avanzado-ds --checkout cookiecutter-personal
+cookiecutter https://github.com/mmagdalenacostanzo --checkout cookiecutter-personal
 
 # Usage
 
 In the directory you create for the project, execute in terminal:
 
-cookiecutter https://github.com/balechon/cookiecutter-Data_Analisys
+cookiecutter https://github.com/mmagdalenacostanzo/cookiecutter-personal
 
 # Credits
 This project was made it in base of:
