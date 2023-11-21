@@ -26,6 +26,12 @@ pip install cookiecutter
   
 conda install -c conda-forge cookiecutter
 
+# Crear nuevo proyecto
+
+En el directorio que quieras guardar el proyecto generado:
+
+cookiecutter https://github.com/platzi/curso-enotrno-avanzado-ds --checkout cookiecutter-personal
+
 # Usage
 
 In the directory that you create for the project, execute in terminal:
